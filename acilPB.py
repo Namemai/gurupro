@@ -18,28 +18,27 @@ else:
     import urllib.request
     import urllib.parse
 acil = PRANKBOTS.LINE()
-acil.login(token="ErYWjY9YV79Z38JKxKo3.Zyqdf0szEvhn7GgnUvgUOW.UjX05iErsgigbASwAmC2c+XpFJ6lR5Tz3fa/+/Zf6bk=")
+acil.login(token="ECbKajyWcpcfsbvDwwV5.FrNxgb3EhyPrJPFQyeNjbq.5bY39fSWqXL0lUQCkkoiML9BXH3jWJqfbqPICHgIkf4=")
 acil.loginResult()
 ki = PRANKBOTS.LINE()
-ki.login(token="EriNWY115rLz2hdl48v6.AtUxbv5bm36lwyvJZPmvLG.oLcFDSxUslenk2Rz2XQg1E/dUM90SsPowtl3mIsCh+w=")
+ki.login(token="ECTnI1KGOW6StBCWrrn6.YIObcm8I8fyFh8BXtr7LDG.iayLhv14LtGzMQkdtb2fTzRNID1GqJlBeTr6iHq7B/E=")
 ki.loginResult()
 ki2= PRANKBOTS.LINE()
-ki2.login(token="ErnJswlRxEo8wSuOebF3.MH2J3w8lfsAoWo4z8qxeuW.pmKfHC0OdXbZY5pUV/Ruyu1NohldbTi/nfmPsBzMvds=")
+ki2.login(token="EC4veeyN9cJQgyadvpic.csWztMdInNv5n4qcCMlGta.WPBhoAn/0KvLobsQfaNQoto+1rzd7ZGNTdY9R65rtm0=")
 ki2.loginResult()
 ki3 = PRANKBOTS.LINE()
-ki3.login(token="ErkFmsynownacQGE3XDf.pMI0m8HrhHEeXjG/H6SepW.yLA1mS6JHgxa7qZzjVQ5JbbB3UFJPR0b4nxCbMc6qLY=")
+ki3.login(token="EC2ryMWlyqRqW1WJ1aN4.kHYuT3EiUia7MWl6NUyv5a.TOhsbAbEnPNNXqSMR1pBaS/x+lLOmkkOHct7E9uCsu0=")
 ki3.loginResult()
 ki4 = PRANKBOTS.LINE()
-ki4.login(token="Er8h61l1jTFFUVf3e13a.NSj60VJy3+WTBIuVnvXHwG.wkwr4TT7v1FWJv4KfHc/Q2yDXxx7deHxXvq65XHjCJg=")
+ki4.login(token="ECldXa9oeg29j5s1E1Ke.xvXrFhZGnzKwkD2rAg0CxG.y6eh4Ohu0HVZWt3MqSvy6IRMAcePSJ1VnE8RtJkTblE=")
 ki4.loginResult()
 ki5 = PRANKBOTS.LINE()
-ki5.login(token="ErzbXhPnCAsXlc6MA7i3.duo4C3Drdvi2rzJhZXuAaW.mkuqhMhfYByBeUBHcwNeGwpTRoaBxBFv5pSbT/yqcMo=")
+ki5.login(token="EC26htanFL1mo7YC21O8.54vNYD8CEpBwSRAH3wfsYa.p4hAXO3L3gKZ5vl+a+nSNXOVEp1C/U4v16nIRHhV5uE=")
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
-║1║ ✰ Me
+helpMessage="""(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦ ═╗
 ║2║ ✰ Add
 ║3║ ✰ Gift
 ║4║ ✰ Spam gift️
@@ -118,8 +117,8 @@ helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́�
 ║🔛║ ✰ {Setauto}
 ╚══╩════════╝
   """
-helpMessage1="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMessage1="""(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦ ═╗
 ║╩═ADMIN+OWNER═╦
 ║1║ ✰ Me
 ║2║ ✰ Smule 
@@ -170,8 +169,8 @@ helpMessage1="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́
 ║║ ✰ Virus
 ╚══╩═══════╝
   """
-helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMedia="""(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦ ═╗
 ║╦═══MEDIA═══
 ║1║ ✰ Youtube *text*
 ║2║ ✰ Youtubesearch *user*
@@ -218,7 +217,7 @@ helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍
 ║42║ ✰ Urlcover
 ║43║ ✰ Hay "text"
 ║44║ ✰ Record "text"
-║45║ ✰ Xvideo "text"
+║45║ ✰ removed "text"
 ║46║ ✰ Cmule "id smule"
 ║47║ ✰ Time
 ║48║ ✰ Imagetxt "text"
@@ -248,8 +247,8 @@ helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍
 ║🔛║ ✰ {Setauto}
 ╚══╩══════╝
 """
-helpFun = """(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpFun = """(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦ ═╗
 ║╦═══MEDIA═══
 ║1║ ✰ sider:*txt*
 ║2║ ✰ tagme:*txt
@@ -335,12 +334,12 @@ helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B
 ║🔧║ ✰ {Settings}
 ║🔛║ ✰ {Setauto}
 ╚══╩══════╝
-║ ╦═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╦
-╚═•℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́•╝
+║ ╦═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦ ═╦
+╚═T҉E҉A҉M҉ G҉U҉R҉U҉╝
 """
 translateMessage ="""
 ╔══════════
-║(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
+║(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
 ║╔═════════
 ║══════════
 ║✰║ Afrika/
@@ -410,8 +409,8 @@ ki3mid = ki3.getProfile().mid
 ki4mid = ki4.getProfile().mid
 ki5mid = ki5.getProfile().mid
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid]
-admsa = "ucd84031744997951cdee018db951aea3" #MID SELFBOT
-PRANKBOT = ["ufce863f62f40706c01fa4a3c3c4cb096"] #MID OWNER
+admsa = "u7d19d7181dde1d8a518e97ea6049c905" #MID SELFBOT
+PRANKBOT = ["u81309ce03e9af2a78ccd777075eb2c2e"] #MID OWNER
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -424,10 +423,10 @@ wait = {
     'joingc':"message member join belum di set",
     'leftgc':"message member left belum di set",
     "stickerMention":False,
-    'message':"""THANKS FOR ADD ME\n\nSUBCRABE ME ON YOUTUBE\n\nhttps://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ""",
+   'message':"""THANKS FOR ADDING ME \n want bots in your group? \n add bot creator id - iamguru12 \n https://line.me/ti/p/v8uSSzQ43W""",
     "lang":"JP",
     "comment":"Thanks For Add Me",
-    "comment1":"|======AUTO LIKE======|\n\nSUBCRABE ME ON YOUTUBE\n\nhttps://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ\n\nMENERIMA PESANAN SELFBOT MINAT.!!\nINFO LANGSUNG KE\n\nID:::::http://line.me/ti/p/~adiputra.95",
+    "comment1":"|======AUTO LIKE======|\nwant bots in your group? \n add bot creator id - iamguru12 \n https://line.me/ti/p/v8uSSzQ43W",
     "commentOn":False,
     "likeOn":True,
     "wcOn":True,
@@ -725,7 +724,7 @@ def NOTIFIED_READ_MESSAGE(op):
 def waktu(secs):
     mins, secs = divmod(secs,60)
     hours, mins = divmod(mins,60)
-    return '%02d Jam %02d Menit %02d Detik' % (hours, mins, secs)
+    return '%02d hour %02d minuts %02d Seconds' % (hours, mins, secs)
 def bot(op):
     try:
         if op.type == 0:
