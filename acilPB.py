@@ -1567,15 +1567,15 @@ def bot(op):
                 if wait["lang"] == "JP":
                 	acil.sendText(msg.to,helpMessage1)
                 	msg.contentType = 13
-                	msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
-                	acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                	msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
+                	acil.sendText(msg.to,"ᴡᴇ ᴀʀᴇ ғʀᴏᴍ ᴛᴇᴀᴍ ɢᴜʀᴜ \n ᴀᴅᴅ ᴄʀᴇᴀᴛᴏʀ ғᴏʀ ʙᴏᴛs \n ɪᴅ-ɪᴀᴍɢᴜʀᴜ𝟷𝟸")
                 	acil.sendMessage(msg)
                 else:
                     acil.sendText(msg.to,helpMessage1)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                    msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                     acil.sendMessage(msg)
-                    acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                    acil.sendText(msg.to,"ᴡᴇ ᴀʀᴇ ғʀᴏᴍ ᴛᴇᴀᴍ ɢᴜʀᴜ \n ᴀᴅᴅ ᴄʀᴇᴀᴛᴏʀ ғᴏʀ ʙᴏᴛs \n ɪᴅ-ɪᴀᴍɢᴜʀᴜ𝟷𝟸")
             if "Me" == msg.text:
               if msg.from_ in wait["ACIL"]:
                        msg.contentType = 13
@@ -1600,7 +1600,7 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki5mid}
                 ki5.sendMessage(msg)
-                ki.sendText(msg.to,"AMAN TERKENDALI KOMANDAN 👮")
+                ki.sendText(msg.to,"SAFE CONTROL COMMANDED 👮")
             if "Getvid @" in msg.text:
               if msg.from_ in wait["ACIL"]:
                 print "[Command]dp executing"
@@ -1753,7 +1753,7 @@ def bot(op):
                     tob = msg.text.replace("Playstore ","")
                     acil.sendText(msg.to,"Please wait...")
                     acil.sendText(msg.to,"Title : "+tob+"\nSource : Google Play\nLinknya : https://play.google.com/store/search?q=" + tob)
-                    acil.sendText(msg.to,"This is link aplication")     
+                    acil.sendText(msg.to,"This is link of aplication")     
             if "Wikipedia " in msg.text:
               if msg.from_ in wait["ACIL"]:
                   try:
@@ -1784,7 +1784,7 @@ def bot(op):
               if msg.from_ in wait["ACIL"]:
                     a = msg.text.replace("Smule ","")
                     b = urllib.quote(a)
-                    acil.sendText(msg.to,"Searching to id smule..")
+                    acil.sendText(msg.to,"Searching id on smule..")
                     acil.sendText(msg.to, "Nama: "+b+"\nId smule: http://smule.com/" +b)
             #------------------------------------------------------------
             if msg.text in ["Invite:user"]:
@@ -1852,12 +1852,12 @@ def bot(op):
             if msg.contentType == 13:
                 if wait["wblack"] == True:
                     if msg.contentMetadata["mid"] in wait["commentBlack"]:
-                        acil.sendText(msg.to,"sudah masuk daftar hitam👈")
+                        acil.sendText(msg.to,"has been blacklisted👈")
                         wait["wblack"] = False
                     else:
                         wait["commentBlack"][msg.contentMetadata["mid"]] = True
                         wait["wblack"] = False
-                        acil.sendText(msg.to,"Itu tidak berkomentar👈")
+                        acil.sendText(msg.to,"That doesn't comment👈")
                 elif wait["dblack"] == True:
                     if msg.contentMetadata["mid"] in wait["commentBlack"]:
                         del wait["commentBlack"][msg.contentMetadata["mid"]]
@@ -1865,10 +1865,10 @@ def bot(op):
                         wait["dblack"] = False
                     else:
                         wait["dblack"] = False
-                        acil.sendText(msg.to,"Tidak ada dalam daftar hitam👈")
+                        acil.sendText(msg.to,"Not blacklisted👈")
                 elif wait["wblacklist"] == True:
                     if msg.contentMetadata["mid"] in wait["blacklist"]:
-                        acil.sendText(msg.to,"sudah masuk daftar hitam")
+                        acil.sendText(msg.to,"has been blacklisted")
                         wait["wblacklist"] = False
                     else:
                         wait["blacklist"][msg.contentMetadata["mid"]] = True
@@ -1927,7 +1927,7 @@ def bot(op):
                   ki4.leaveGroup(i)
                   ki5.leaveGroup(i)
                 if wait["lang"] == "JP":
-                  random.choice(KAC).sendText(msg.to,"Bye~Bye " + str(ginfo.name) + "\n\nBots Dipaksa Keluar oleh selfbot...!!!\nMakasih...!!!")
+                  random.choice(KAC).sendText(msg.to,"Bye~Bye " + str(ginfo.name) + "\n\nif you want us back contact creator \n id- iAmGuru12")
                 else:
                   acil.sendText(msg.to,"He declined all invitations")
 #--------------------------
@@ -1936,7 +1936,7 @@ def bot(op):
                 for i in gid:
                   acil.leaveGroup(i)
                 if wait["lang"] == "JP":
-                  acil.sendText(msg.to,"Bye~Bye " + str(ginfo.name) + "\n\nBots Dipaksa Keluar oleh selfbot...!!!\nMakasih...!!!")
+                  acil.sendText(msg.to,"Bye~Bye " + str(ginfo.name) + "\n\nif you want us back contact creator \n id- iAmGuru12")
                 else:
                   acil.sendText(msg.to,"He declined all invitations")
 #----------------------------------------------
@@ -2017,7 +2017,7 @@ def bot(op):
             elif 'playstore ' in msg.text.lower():
                     tob = msg.text.lower().replace('playstore ',"")
                     acil.sendText(msg.to,"Please wait...")
-                    acil.sendText(msg.to,"Title : "+tob+"\nSource : Google Play\nLinknya : https://play.google.com/store/search?q=" + tob)
+                    acil.sendText(msg.to,"Title : "+tob+"\nSource : Google Play\nLink : https://play.google.com/store/search?q=" + tob)
                     acil.sendText(msg.to,"This is link aplication")     
             elif "Wikipedia " in msg.text:
                   try:
@@ -2138,7 +2138,7 @@ def bot(op):
                     group.name = msg.text.replace("Gn:","")
                     ki.updateGroup(group)
                 else:
-                    acil.sendText(msg.to,"Hal ini tidak dapat digunakan di luar kelompok👈")
+                    acil.sendText(msg.to,"This cannot be used outside the group👈")
             elif ("Gn " in msg.text):
                 if msg.toType == 2:
                     group = acil.getGroup(msg.to)
