@@ -42,8 +42,8 @@ ki5.login(token="EC26htanFL1mo7YC21O8.54vNYD8CEpBwSRAH3wfsYa.p4hAXO3L3gKZ5vl+a+n
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMessage="""(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦═╗
 ║1║ ✰ Me
 ║2║ ✰ Add
 ║3║ ✰ Gift
@@ -123,8 +123,8 @@ helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́�
 ║🔛║ ✰ {Setauto}
 ╚══╩════════╝
   """
-helpMessage1="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMessage1="""(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦═╗
 ║╩═ADMIN+OWNER═╦
 ║1║ ✰ Me
 ║2║ ✰ Smule 
@@ -152,7 +152,7 @@ helpMessage1="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́
 ║24║ ✰ Github
 ║25║ ✰ Wc
 ║26║ ✰ Wikipedia
-║27║ ✰ Xvideo
+║27║ ✰ Removed by owner
 ║28║ ✰ Picturl @
 ║29║ ✰ Coverurl @
 ║30║ ✰ Sider:on/off
@@ -175,8 +175,8 @@ helpMessage1="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́
 ║║ ✰ Virus
 ╚══╩═══════╝
   """
-helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMedia="""(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦═╗
 ║╦═══MEDIA═══
 ║1║ ✰ Youtube *text*
 ║2║ ✰ Youtubesearch *user*
@@ -223,7 +223,7 @@ helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍
 ║42║ ✰ Urlcover
 ║43║ ✰ Hay "text"
 ║44║ ✰ Record "text"
-║45║ ✰ Xvideo "text"
+║45║ ✰ Removed "text"
 ║46║ ✰ Cmule "id smule"
 ║47║ ✰ Time
 ║48║ ✰ Imagetxt "text"
@@ -253,8 +253,8 @@ helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍
 ║🔛║ ✰ {Setauto}
 ╚══╩══════╝
 """
-helpFun = """(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpFun = """(╣T҉E҉A҉M҉ G҉U҉R҉U҉╣)
+╔═◦•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦═╗
 ║╦═══MEDIA═══
 ║1║ ✰ sider:*txt*
 ║2║ ✰ tagme:*txt
@@ -301,7 +301,7 @@ helpself="""
 ║23║ ✰ Allbio "status"
 ║24║ ✰ Sendcontact "text"
 ║25║ ✰ Botbyeall  
-║••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••
+║••T҉E҉A҉M҉ G҉U҉R҉U҉••
 ╚═══════════╝
   """
 helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B༘̏̏Ȍ༘̏T༘̏̏S༘̏̏.╣)╗
@@ -340,12 +340,12 @@ helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B
 ║🔧║ ✰ {Settings}
 ║🔛║ ✰ {Setauto}
 ╚══╩══════╝
-║ ╦═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╦
-╚═•℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́•╝
+║ ╦═T҉E҉A҉M҉ G҉U҉R҉U҉═╦
+╚═••●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦╝
 """
 translateMessage ="""
 ╔══════════
-║(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
+║(╣•●◉✿☬Ⓖⓤⓡⓤ☬✿◉●•◦╣)
 ║╔═════════
 ║══════════
 ║✰║ Afrika/
