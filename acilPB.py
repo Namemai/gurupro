@@ -415,8 +415,8 @@ ki3mid = ki3.getProfile().mid
 ki4mid = ki4.getProfile().mid
 ki5mid = ki5.getProfile().mid
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid]
-admsa = "ucd84031744997951cdee018db951aea3" #MID SELFBOT
-PRANKBOT = ["ufce863f62f40706c01fa4a3c3c4cb096"] #MID OWNER
+admsa = "u7d19d7181dde1d8a518e97ea6049c905" #MID SELFBOT
+PRANKBOT = ["u81309ce03e9af2a78ccd777075eb2c2e"] #MID OWNER
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -429,10 +429,10 @@ wait = {
     'joingc':"message member join belum di set",
     'leftgc':"message member left belum di set",
     "stickerMention":False,
-    'message':"""THANKS FOR ADD ME\n\nSUBCRABE ME ON YOUTUBE\n\nhttps://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ""",
+    'message':"""THANKS FOR ADDING ME\n\nᴡᴇ ᴀʀᴇ ғʀᴏᴍ ᴛᴇᴀᴍ ɢᴜʀᴜ. ᴀᴅᴅ ᴄʀᴇᴀᴛᴏʀ ғᴏʀ sᴇʟғʙᴏᴛs ᴀɴᴅ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ʙᴏᴛs . ᴄʀᴇᴀᴛᴏʀ's ʟɪɴᴇ ɪᴅ ɪ ɪᴀᴍɢᴜʀᴜ𝟷𝟸""",
     "lang":"JP",
     "comment":"Thanks For Add Me",
-    "comment1":"|======AUTO LIKE======|\n\nSUBCRABE ME ON YOUTUBE\n\nhttps://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ\n\nMENERIMA PESANAN SELFBOT MINAT.!!\nINFO LANGSUNG KE\n\nID:::::http://line.me/ti/p/~adiputra.95",
+    "comment1":"|======AUTO LIKE BY TEAM GURU======|\n\nᴡᴇ ᴀʀᴇ ғʀᴏᴍ ᴛᴇᴀᴍ ɢᴜʀᴜ. ᴀᴅᴅ ᴄʀᴇᴀᴛᴏʀ ғᴏʀ sᴇʟғʙᴏᴛs ᴀɴᴅ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ʙᴏᴛs . ᴄʀᴇᴀᴛᴏʀ's ʟɪɴᴇ ɪᴅ ɪ ɪᴀᴍɢᴜʀᴜ𝟷𝟸",
     "commentOn":False,
     "likeOn":True,
     "wcOn":True,
