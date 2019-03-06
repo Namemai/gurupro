@@ -1178,57 +1178,57 @@ def bot(op):
                 if wait["lang"] == "JP":
                 	acil.sendText(msg.to,helpMessage1)
                 	msg.contentType = 13
-                	acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
-                	msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                	acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
+                	msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                 	acil.sendMessage(msg)
                 else:
                 	acil.sendText(msg.to,helpMessage1)
                 	msg.contentType = 13
-                	acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
-                	msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                	acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
+                	msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                 	acil.sendMessage(msg)
             if "Media" == msg.text:
               if msg.from_ in PRANKBOT:
                 if wait["lang"] == "JP":
                     acil.sendText(msg.to,helpMedia)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                    msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                     acil.sendMessage(msg)
-                    acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                    acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
                 else:
                     acil.sendText(msg.to,helpMedia)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                    msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                     acil.sendMessage(msg)
-                    acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                    acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
             if "Helpbots" == msg.text:
               if msg.from_ in PRANKBOT:
                 if wait["lang"] == "JP":
                     ki.sendText(msg.to,helpself)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                    msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                     acil.sendMessage(msg)
-                    acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                    acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
                 else:
                     acil.sendText(msg.to,helpself)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                    msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                     acil.sendMessage(msg)
-                    acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                    acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
             if "Settings" == msg.text:
               if msg.from_ in PRANKBOT:
                 if wait["lang"] == "JP":
                     acil.sendText(msg.to,helpset)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                    msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                     acil.sendMessage(msg)
-                    acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                    acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
                 else:
                     acil.sendText(msg.to,helpset)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid':'ufce863f62f40706c01fa4a3c3c4cb096'}
+                    msg.contentMetadata = {'mid':'u81309ce03e9af2a78ccd777075eb2c2e'}
                     acil.sendMessage(msg)
-                    acil.sendText(msg.to,"MINAT PESAN VPS DAN SELFBOT SILAHKAN ADD CREATOR PRANKBOTS")
+                    acil.sendText(msg.to,"we are ғroм тeaм gυrυ. \n add creaтor ғor ѕelғвoтѕ and proтecтιon вoтѕ . \n creaтor'ѕ lιne ιd ι ιaмgυrυ12")
             if "Me" == msg.text:
               if msg.from_ in PRANKBOT:
                        msg.contentType = 13
@@ -1253,10 +1253,10 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki5mid}
                 ki5.sendMessage(msg)
-                ki.sendText(msg.to,"AMAN TERKENDALI KOMANDAN 👮")
+                ki.sendText(msg.to,"R҉o҉g҉e҉r҉ t҉h҉a҉t҉ c҉o҉m҉m҉a҉n҉d҉e҉r҉ 💂👮")
             if "Set" == msg.text:
               if msg.from_ in PRANKBOT:
-                md = "╔▬▬℘ґ∂ηк в❍тs▬▬╗\n║▬▬▬℘▬▬в▬▬▬║\n"
+                md = "╔▬▬T҉E҉A҉M҉ G҉U҉R҉U҉▬▬╗\n║▬▬▬℘▬▬в▬▬▬║\n"
                 if wait["likeOn"] == True: md+="║☆║Like:ON➡️📱\n"
                 else: md+="║☆║Like:OFF➡️📴\n"
                 if wait["wcOn"] == True: md+="║☆║Welcome:ON➡️📱\n"
@@ -1320,7 +1320,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Protection Enable 􀜁􀇔􏿿✔")
                     else:
-                        acil.sendText(msg.to,"Hal ini sudah terbuka ✔")
+                        acil.sendText(msg.to,"This is open ✔")
                 else:
                     wait["protect"] = True
                     if wait["lang"] == "JP":
@@ -1331,7 +1331,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Link Protection Enable 􀜁􀇔􏿿✔")
                     else:
-                        acil.sendText(msg.to,"Hal ini sudah terbuka ✔")
+                        acil.sendText(msg.to,"This is open ✔")
                 else:
                     wait["linkprotect"] = True
                     if wait["lang"] == "JP":
@@ -1342,7 +1342,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Invite Protect Enable 􀜁􀇔􏿿✔")
                     else:
-                        acil.sendText(msg.to,"Hal ini sudah terbuka ✔")
+                        acil.sendText(msg.to,"This is open✔")
                 else:
                     wait["inviteprotect"] = True
                     if wait["lang"] == "JP":
@@ -1359,7 +1359,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Cancel Protection Enable 􀜁􀇔􏿿✔")
                     else:
-                        acil.sendText(msg.to,"Hal ini sudah terbuka ✔")
+                        acil.sendText(msg.to,"This is open ✔")
                 else:
                     wait["cancelprotect"] = True
                     if wait["lang"] == "JP":
@@ -1373,7 +1373,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Protection Disable ✔")
                     else:
-                        acil.sendText(msg.to,"sudah dimatikan ✔")
+                        acil.sendText(msg.to," turned off ✔")
                 else:
                     wait["protect"] = False
                     if wait["lang"] == "JP":
@@ -1384,7 +1384,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Link Protection Disable ✖")
                     else:
-                        acil.sendText(msg.to,"sudah dimatikan ✖")
+                        acil.sendText(msg.to," turned off ✖")
                 else:
                     wait["linkprotect"] = False
                     if wait["lang"] == "JP":
@@ -1395,7 +1395,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Invite Protection Disable ✖")
                     else:
-                        acil.sendText(msg.to,"sudah dimatikan ✖")
+                        acil.sendText(msg.to," turned off ✖")
                 else:
                     wait["inviteprotect"] = False
                     if wait["lang"] == "JP":
@@ -1411,7 +1411,7 @@ def bot(op):
                     if wait["lang"] == "JP":
                         acil.sendText(msg.to,"Cancel Protection Disable ✖")
                     else:
-                        acil.sendText(msg.to,"sudah dimatikan ✖")
+                        acil.sendText(msg.to," turned off ✖")
                 else:
                     wait["cancelprotect"] = False
                     if wait["lang"] == "JP":
@@ -1432,8 +1432,8 @@ def bot(op):
                       wait["ACIL"][target] = True
                       f=codecs.open('st2__a.json','w','utf-8')
                       json.dump(wait["ACIL"], f, sort_keys=True, indent=4,ensure_ascii=False)
-                      acil.sendText(msg.to,"OWNER MENAMBAHKAN ADMIN")
-                      print "[Admin]DITAMBAHKAN"
+                      acil.sendText(msg.to,"OWNER ADD ADMIN")
+                      print "[Admin]ADDED"
                    except:
                       pass
             if "Admin:del @" in msg.text:
@@ -1460,7 +1460,7 @@ def bot(op):
                                 acil.sendText(msg.to,"Error")
             if msg.text in ["Listadmin","Adminlist"]:
                 if wait["ACIL"] == {}:
-                    acil.sendText(msg.to,"No user is ADMIN")
+                    acil.sendText(msg.to,"❌NO ADMIN FOUND❌")
                 else:
                     mc = " 🛡️==||ADMIN||==🛡️\n"
                     for mi_d in wait["ACIL"]:
