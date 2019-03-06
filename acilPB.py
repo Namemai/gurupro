@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 import PRANKBOTS
-from PRANKBOTS.lib.curve.ttypes import *	
+from thrift.unverting import *
+from thrift.TMultiplexedProcessor import *
+from thrift.TSerialization import *
+from thrift.TRecursive import *
+from thrift import transport, protocol, server
+from PRANKBOTS.lib.ttypes import *	
 from datetime import datetime	
 import io,os,re,ast,six,sys,glob,json,time,timeit,codecs,random,shutil,urllib,urllib2,urllib3,goslate,html5lib,requests,threading,wikipedia,subprocess,googletrans
 from gtts import gTTS	
@@ -18,22 +23,22 @@ else:
     import urllib.request
     import urllib.parse
 acil = PRANKBOTS.LINE()
-acil.login(token="ErYWjY9YV79Z38JKxKo3.Zyqdf0szEvhn7GgnUvgUOW.UjX05iErsgigbASwAmC2c+XpFJ6lR5Tz3fa/+/Zf6bk=")
+acil.login(token="ECbKajyWcpcfsbvDwwV5.FrNxgb3EhyPrJPFQyeNjbq.5bY39fSWqXL0lUQCkkoiML9BXH3jWJqfbqPICHgIkf4=")
 acil.loginResult()
 ki = PRANKBOTS.LINE()
-ki.login(token="EriNWY115rLz2hdl48v6.AtUxbv5bm36lwyvJZPmvLG.oLcFDSxUslenk2Rz2XQg1E/dUM90SsPowtl3mIsCh+w=")
+ki.login(token="ECTnI1KGOW6StBCWrrn6.YIObcm8I8fyFh8BXtr7LDG.iayLhv14LtGzMQkdtb2fTzRNID1GqJlBeTr6iHq7B/E=")
 ki.loginResult()
 ki2= PRANKBOTS.LINE()
-ki2.login(token="ErnJswlRxEo8wSuOebF3.MH2J3w8lfsAoWo4z8qxeuW.pmKfHC0OdXbZY5pUV/Ruyu1NohldbTi/nfmPsBzMvds=")
+ki2.login(token="EC4veeyN9cJQgyadvpic.csWztMdInNv5n4qcCMlGta.WPBhoAn/0KvLobsQfaNQoto+1rzd7ZGNTdY9R65rtm0=")
 ki2.loginResult()
 ki3 = PRANKBOTS.LINE()
-ki3.login(token="ErkFmsynownacQGE3XDf.pMI0m8HrhHEeXjG/H6SepW.yLA1mS6JHgxa7qZzjVQ5JbbB3UFJPR0b4nxCbMc6qLY=")
+ki3.login(token="EC2ryMWlyqRqW1WJ1aN4.kHYuT3EiUia7MWl6NUyv5a.TOhsbAbEnPNNXqSMR1pBaS/x+lLOmkkOHct7E9uCsu0=")
 ki3.loginResult()
 ki4 = PRANKBOTS.LINE()
-ki4.login(token="Er8h61l1jTFFUVf3e13a.NSj60VJy3+WTBIuVnvXHwG.wkwr4TT7v1FWJv4KfHc/Q2yDXxx7deHxXvq65XHjCJg=")
+ki4.login(token="ECldXa9oeg29j5s1E1Ke.xvXrFhZGnzKwkD2rAg0CxG.y6eh4Ohu0HVZWt3MqSvy6IRMAcePSJ1VnE8RtJkTblE=")
 ki4.loginResult()
 ki5 = PRANKBOTS.LINE()
-ki5.login(token="ErzbXhPnCAsXlc6MA7i3.duo4C3Drdvi2rzJhZXuAaW.mkuqhMhfYByBeUBHcwNeGwpTRoaBxBFv5pSbT/yqcMo=")
+ki5.login(token="EC26htanFL1mo7YC21O8.54vNYD8CEpBwSRAH3wfsYa.p4hAXO3L3gKZ5vl+a+nSNXOVEp1C/U4v16nIRHhV5uE=")
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
